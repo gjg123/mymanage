@@ -1,0 +1,33 @@
+
+	.bb{
+		display: block;
+	}
+	.cellEdit{
+		height: 100%;
+		box-sizing: border-box;	
+		background: #ccc;
+	}
+	.cellEdit .cc{
+		display: inline-block;
+		width:100%;
+		height:30px;
+		text-align: center;
+		
+	}
+	.cellEdit .cc{
+		display: none;
+	}
+	.cellEdit .el-table td, .el-table th{
+		padding: 2px 2px;
+		height:40px;
+	}
+	.cellEdit .dataWrapper{
+		padding:10px;
+	}
+	.cellEdit .btnBox{
+		text-align: right;
+		margin-right:50px;
+		padding-bottom:20px;
+		box-sizing: border-box;
+	}
+	

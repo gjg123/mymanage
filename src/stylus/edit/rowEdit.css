@@ -1,0 +1,41 @@
+	.rowEdit{
+		height: 100%;
+		margin-top:0px;
+	    box-sizing: border-box;	
+		background: #ccc;
+	}
+	.title{
+		padding: 10px;
+	}
+	.rowEdit .dataWrapper{
+		margin: 20px 0;
+		padding-left: 20px;
+		box-sizing: border-box;
+		
+	}
+	.rowEdit .btnBox{
+		text-align: right;
+		margin-right:50px;
+		padding-bottom:20px;
+		box-sizing: border-box;
+	}
+	.tb-edit .el-input { 
+		   display: none;	
+	}
+	.tb-edit .current-row .el-input {   
+		display: block;	
+	}
+	.tb-edit .current-row .el-input+span { 
+		display: none;	
+	}
+	.rowEdit .el-input--mini .el-input__inner {
+		text-align: center;
+	}
+	.rowEdit .el-table td{
+		padding:5px 0;		
+	}
+	.rowEdit .el-table th{
+		padding:5px 0;		
+	}
+
+
